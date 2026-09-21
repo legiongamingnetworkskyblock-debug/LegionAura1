@@ -1,0 +1,13 @@
+name: LegionAura
+version: '1.1.0'
+main: net.legiongaming.legionaura.LegionAura
+api-version: '1.21'
+author: Legion Gaming Network
+commands:
+  aura:
+    description: Enable or disable your hostile mob aura.
+    usage: /aura <on|off>
+    permission: legionaura.use
+permissions:
+  legionaura.use:
+    default: op

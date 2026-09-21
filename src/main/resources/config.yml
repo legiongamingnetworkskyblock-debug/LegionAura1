@@ -1,0 +1,14 @@
+radius: 20.0
+push-strength: 1.15
+vertical-push: 0.12
+check-period-ticks: 2
+particles:
+  enabled: true
+  type: END_ROD
+  count: 3
+  spread: 0.32
+  vertical-spread: 0.75
+messages:
+  enabled: "&6&lLGN &8» &aMob Aura enabled! &7Hostile mobs cannot get within &e20 blocks&7."
+  disabled: "&6&lLGN &8» &cMob Aura disabled."
+  usage: "&6&lLGN &8» &7Use &e/aura on &7or &e/aura off&7."
